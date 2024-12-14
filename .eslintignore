@@ -1,0 +1,11 @@
+node_modules
+android
+ios
+dist
+build
+*.js
+*.svg
+*.json
+*.png
+package.json
+package-lock.json
